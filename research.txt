@@ -1,2 +1,72 @@
+All you need to be a VR developer is the following:
+
+A VR Device (Google Cardboard, GearVr, Oculus Rift, HTC Vive)
+Unity (game engine) experience and know-how
+The proper SDK for Unity (based on your VR device)
+C# experience and know-how
+Time
+
+You can easily learn how to use Unity and code in C# by utilizing online courses offered at Udemy, Coursera, or Edx (all within a matter of months).
+
+You do NOT need any advanced degrees from a University or large development teams. Just learn Unity and C#, get a VR device - and start experimenting.
+
+You should also ask yourself the following questions:
+ Do I want to be on the front lines of an aggressively growing industry?
+ Do I want to develop VR applications that could potentially change people’s lives?
+ How much money and time will I invest in this skill?
+ 
+and the most important of all
+ 
+ What VR applications do I want to build?
+
+The Virtual Reality Industry needs developers like you to create content. There is a huge range of possible applications you can create like games, healthcare apps, and even disaster relief training applications.
+Virtual Reality Industry Standards & Terminology:
+Why is this important you ask? You should know the industry standards and commonalities associated with the development sector. This is beneficial for general development and employment. Get familiar with these terms as soon as you can.
+ 
+Unreal Engine 4
+UE4 is a complete suite of game development tools. Computationally optimized with greater visual fidelity but a steeper learning curve. Free to download and use, but as a condition of use they will take 5% of your net revenue (above $3000) per quarter.
+ 
+Check out Unreal’s subreddit: /r/UnrealEngine
+ 
+Unity 3D
+Unity is a powerful cross-platform 3D engine and a user friendly development environment. It’s Easy enough for a beginner and powerful enough for an expert. Unity is great for anyone who wants to create applications for mobile, desktop, the web, and consoles. Unity has many versions with different costs, but Unity Personal is free to use.
+Check out Unity’s subreddit: /r/Unity3D
+ 
+WebVR
+An experimental Javascript API that provides access to Virtual Reality devices. Including HTC Vive, Oculus Rift or Google Cardboard, in a web browser.
+ 
+Get familiar with these languages, apps, and platforms for WebVR.
+ 
+WebVR Boilerplate
+The WebVR boilerplate project is on github, and consists of two parts. Firstly, the WebVR polyfill provides WebVR support for Cardboard-compatible devices, and orientation tracking fallbacks where no headset is available. The WebVR polyfill can also be installed from npm (available via npm install webvr-polyfill).
+1. An HMD, provides a reasonable default for interpupillary distance and field of view for cardboard-like devices.
+2. On mobile devices, a GyroPositionSensorVRDevice, which provides orientation through the DeviceOrientationEvent.
+3. On PCs, a MouseKeyboardPositionSensorVRDevice, which provides orientation through keyboard and mouse events.
+
+A-Frame
+A web framework for building virtual reality experiences With HTML and Entity-Component ecosystem. Works on Vive, Rift, desktop, mobile platforms.
+ 
+Vizor
+Web Platform for exploring, creating, and publishing virtual reality on the web. Discover 360 and 3D content in VR on your phone, or in 2D on your web browser or tablet.
+ 
+Check out WebVR’s subreddit: /r/WebVR
+ 
+C++ (UE4)
+C++ classes can be used as a base for Blueprint classes, and in this way programmers can set up fundamental gameplay classes that are then sub-classed and iterated on by level designers.
+ 
+Check out this Introduction to C++ Programming in Unreal Engine 4 here. 
+ 
+Blueprint Visual Scripting (UE4)
+The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay scripting system based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine. As you use UE4, you’ll often find that objects defined using Blueprint are colloquially referred to as just “Blueprints.”
+ 
+Check out this Introduction to Blueprint in Unreal Engine 4 here.
+ 
+C# (Unity)
+A simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg.
+ 
+Check out this helpful Coding guide by Unity for the Absolute Beginner here. 
+ 
+Google VR SDK (Unity)
+Build virtual reality applications for Android and iOS using Unity and the Google VR SDK. Unity’s native integration with Google VR makes it easy to build Android applications for Daydream and Cardboard. The Google VR SDK for Unity provides additional features like spatialized audio, Daydream controller support, utilities and samples.
 
 sample text.
