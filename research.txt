@@ -70,3 +70,26 @@ Google VR SDK (Unity)
 Build virtual reality applications for Android and iOS using Unity and the Google VR SDK. Unity’s native integration with Google VR makes it easy to build Android applications for Daydream and Cardboard. The Google VR SDK for Unity provides additional features like spatialized audio, Daydream controller support, utilities and samples.
 
 sample text.
+
+
+
+Jobs and salary
+
+Some people believe virtual reality (VR) technology has the potential to change our lives even more than the smartphone has and that technology is developing rapidly. Products like the Oculus Rift have the power to immerse users in seamless, real-seeming virtual environments, while Google's Cardboard platform can turn your smartphone into a VR machine with little more than a few folds of paper. Naturally, such advancements go hand in hand with a rising demand for workers, and now might just be the right time for interested job seekers to break in. Everyone knows the big players in the VR market Oculus, Google and Samsung but the majority of jobs are with smaller companies and startups. As the industry sees immense growth and adoption, VR developers especially are becoming more in-demand. VR industry revenue is expected to jump from 3.7 billion U.S. dollars in 2016 to over 40 billion U.S. dollars by 2020. Another forecast predicts revenue from the global virtual reality market to reach 21.5 billion U.S. dollars by 2020.
+
+Seattle Virtual Reality + Augmented Reality Meetup is a great platform for people interested in Virtual Reality residing here in seattle.
+A lot of companies focus on the projects you have worked on in this field. Feel free to show off your VR projects to the companies. It’s still early days in VR. Very few people actually have the experience in VR so don’t be discouraged to apply for jobs if you don’t have years of experience. 
+A few companies that are looking for employees in this field here in the Seattle area are:
+VREAL, PLUTO VR, VALVE,GOOGLE, HTC CREATIVE LABS,OCULUS…
+
+Types of jobs in VR
+Content producer 
+Software engineer
+AR and VR content writers
+Product management
+Quality assurance
+UI and UX design and more..
+
+Salary
+As of Oct 24, 2019, the average annual pay for a VR Developer in the United States is $85,546 a year. While ZipRecruiter is seeing annual salaries as high as $156,500 and as low as $24,500, the majority of VR Developer salaries currently range between $61,000 (25th percentile) to $107,000 (75th percentile) across the United States. The average pay range for a VR Developer varies modestly (up to $46,000), which suggests there may be fewer opportunities for advancement based on skill level, but increased pay based on location and years of experience is still possible.
+Based on recent job postings on ZipRecruiter, VR Developer job market in both Olympia, WA and the surrounding area is very active. People working as a VR Developer in your area are making on average $85,501 per year or $45 (0%) less than the national average annual salary of $85,546. Washington ranks number 16 out of 50 states nationwide for VR Developer salaries.
